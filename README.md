@@ -2,7 +2,7 @@
 A movie recommender system, which asks a user to rate a small set of movies and based on these ratings, suggests more movies which will suit their taste. This project was motivated by the programming task pertaining to my Precog application.
 
 ## Directory Structure
-.
+```bash.
 ├── _data
     ├── _lightfm_data ├── _movielens100k ├── _movielens.zip 
     ├── _ml-latest-small ├── _README.txt
@@ -22,5 +22,6 @@ A movie recommender system, which asks a user to rate a small set of movies and 
 ├── _main.py
 ├── _movie_data.py
 ├── _scraped_data.py
+```
 
 
